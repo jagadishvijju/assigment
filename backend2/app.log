@@ -1,0 +1,6 @@
+2025-03-27 12:10:06,763 - main - ERROR - AI_API_KEY environment variable not set!
+2025-03-27 12:12:05,842 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
